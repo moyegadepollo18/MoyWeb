@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\plantillas\\cocoon-master\\assets"
+		},
+		{
+			"path": "..\\..\\plantillas\\cocoon-master\\Documentation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Documentation"
+	}
+}
